@@ -1,8 +1,8 @@
-# Notas:
+# Socket básico 
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Aplicación de sockets básico realizado con node, express y socket.io
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Reconstruir los módulos de node con el comando
 
 ```
 npm install
